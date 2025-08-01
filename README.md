@@ -15,12 +15,6 @@ Use arrow keys to control the snake, eat food, and avoid hitting the walls or yo
 
 ---
 
-## 📸 Screenshot
-
-*(You can add a screenshot here by uploading it to the repo and linking it)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.x**
